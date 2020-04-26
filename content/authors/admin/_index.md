@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: University of Washington
     year: Current
   - course: B.E. in Computer Science
     institution: University of Michigan
