@@ -66,6 +66,4 @@ email: ""
 #- Visitors
 ---
 
-I am currently a PhD student at the University of Washington, advised by [Su In Lee](https://suinlee.cs.washington.edu/). I am interested in developing methods to make machine learning models more interpretable, and applying such methods to understand biological and health data. 
-
-Outside of work I spend time playing piano, and occasionally attending [my father's](https://math.berkeley.edu/~bernd/) talks.
+I am currently a PhD student at the University of Washington, advised by [Su In Lee](https://suinlee.cs.washington.edu/). I am interested in developing methods to make machine learning models more interpretable, and applying such methods to understand biological and health data.
